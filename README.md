@@ -1,7 +1,10 @@
-<h1 align="center">Vaidehi Garad</h1>
 <p align="center">
-  Cloud engineer in the making. I build, break, and fix distributed systems on AWS.<br>
-  B.Tech CS graduate | Chandrapur, India 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Vaidehi+Garad;Cloud+engineer+in+the+making;Terraform+%7C+AWS+%7C+Docker+%7C+Python;Open+to+internships+and+full-time+roles" alt="Typing header" />
+</p>
+
+<p align="center">
+  I build, break, and fix distributed systems on AWS.<br>
+  B.Tech CS graduate | Chandrapur, India | Open to relocation
 </p>
 
 <p align="center">
@@ -19,6 +22,8 @@
 | [**kv-store**](https://github.com/Bittu-65/kv-store) | Distributed key-value store from scratch: TCP server, WAL persistence, primary-replica replication. Dockerized, CI/CD via GitHub Actions, running on EC2 under systemd. | `Python` `Docker` `GitHub Actions` `EC2` |
 | [**loglens**](https://github.com/Bittu-65/loglens) | Log anomaly detection with real detection logic, incident correlation, and LLM root-cause diagnosis. Processed 35K+ real log events on AWS. | `Python` `Groq LLM` `AWS` |
 
+![kv-store CI](https://github.com/Bittu-65/kv-store/actions/workflows/YOUR-WORKFLOW-FILE.yml/badge.svg)
+
 ## Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -35,20 +40,11 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bittu-65&layout=compact&langs_count=5&theme=dracula&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bittu-65&theme=dracula&hide_border=true" />
-</p>
-
 ## Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bittu-65/Bittu-65/output/github-snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Bittu-65/Bittu-65/output/github-snake.svg">
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/Bittu-65/Bittu-65/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 </picture>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bittu-65&theme=dracula&hide_border=true" width="100%" />
-</p>
 
 ## Connect
 
