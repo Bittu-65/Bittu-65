@@ -1,7 +1,7 @@
-<h1 align="center">Vaidehi Garad</h1>
+<h1 align="center">Vaidehi</h1>
 <p align="center">
   Cloud engineer in the making. I build, break, and fix distributed systems on AWS.<br>
-  B.Tech CS graduate | Chandrapur, India 
+  B.Tech CS graduate | Chandrapur, India | Open to relocation
 </p>
 
 <p align="center">
@@ -31,30 +31,23 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bittu-65&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bittu-65&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bittu-65&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bittu-65&layout=compact&langs_count=5&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Bittu-65&query=$.public_repos&label=Total%20Repos&style=for-the-badge&color=0A66C2" />
+  <img src="https://streak-stats.demolab.com/?user=Bittu-65&theme=dracula&hide_border=true" />
 </p>
 
-## Contribution Streak
+## Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bittu-65/Bittu-65/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Bittu-65/Bittu-65/output/github-snake.svg">
+</picture>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bittu-65&theme=tokyonight&hide_border=true" />
-</p>
-
-## Commit Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2ea44f/Bittu-65" width="100%" />
-</p>
-
-## Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bittu-65&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bittu-65&theme=dracula&hide_border=true" width="100%" />
 </p>
 
 ## Connect
