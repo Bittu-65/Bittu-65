@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Vaidehi Garad</h1>
+<p align="center">
+  Cloud engineer in the making. I build, break, and fix distributed systems on AWS.<br>
+  B.Tech CS graduate | Chandrapur, India 
+</p>
 
-<!--
-**Bittu-65/Bittu-65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaidehi-garad-5b6801291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Full--time-2ea44f?style=for-the-badge">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**three-tier-app**](https://github.com/Bittu-65/three-tier-app) | Highly available 3-tier deployment: custom VPC across 2 AZs, NLB, tight SG-to-SG security rules. 100% Terraform. | `AWS` `Terraform` `VPC` `NLB` `IAM` |
+| [**kv-store**](https://github.com/Bittu-65/kv-store) | Distributed key-value store from scratch: TCP server, WAL persistence, primary-replica replication. Dockerized, CI/CD via GitHub Actions, running on EC2 under systemd. | `Python` `Docker` `GitHub Actions` `EC2` |
+| [**loglens**](https://github.com/Bittu-65/loglens) | Log anomaly detection with real detection logic, incident correlation, and LLM root-cause diagnosis. Processed 35K+ real log events on AWS. | `Python` `Groq LLM` `AWS` |
+
+## Tech Stack
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bittu-65&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bittu-65&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Bittu-65&query=$.public_repos&label=Total%20Repos&style=for-the-badge&color=0A66C2" />
+</p>
+
+## Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Bittu-65&theme=tokyonight&hide_border=true" />
+</p>
+
+## Commit Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2ea44f/Bittu-65" width="100%" />
+</p>
+
+## Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bittu-65&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+## Connect
+
+Hiring for a cloud role, or maintaining a project that needs a contributor? Reach me on [LinkedIn](https://www.linkedin.com/in/vaidehi-garad-5b6801291) or open an issue on any of my repos.
