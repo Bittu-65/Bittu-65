@@ -1,7 +1,7 @@
-<h1 align="center">Vaidehi</h1>
+<h1 align="center">Vaidehi Garad</h1>
 <p align="center">
   Cloud engineer in the making. I build, break, and fix distributed systems on AWS.<br>
-  B.Tech CS graduate | Chandrapur, India | Open to relocation
+  B.Tech CS graduate | Chandrapur, India 
 </p>
 
 <p align="center">
