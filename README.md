@@ -22,7 +22,7 @@
 | [**kv-store**](https://github.com/Bittu-65/kv-store) | Distributed key-value store from scratch: TCP server, WAL persistence, primary-replica replication. Dockerized, CI/CD via GitHub Actions, running on EC2 under systemd. | `Python` `Docker` `GitHub Actions` `EC2` |
 | [**loglens**](https://github.com/Bittu-65/loglens) | Log anomaly detection with real detection logic, incident correlation, and LLM root-cause diagnosis. Processed 35K+ real log events on AWS. | `Python` `Groq LLM` `AWS` |
 
-![kv-store CI](https://github.com/Bittu-65/kv-store/actions/workflows/YOUR-WORKFLOW-FILE.yml/badge.svg)
+![kv-store CI](https://github.com/Bittu-65/kv-store/actions/workflows/ci.yml/badge.svg)
 
 ## Tech Stack
 
