@@ -1,10 +1,11 @@
+<h1 align="center">Hi there, I'm Vaidehi Garad</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Vaidehi+Garad;Cloud+engineer+in+the+making;Terraform+%7C+AWS+%7C+Docker+%7C+Python;Open+to+internships+and+full-time+roles" alt="Typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Cloud+engineer+in+the+making;Terraform+%7C+AWS+%7C+Docker+%7C+Python;Open+to+internships+and+full-time+roles" alt="Typing header" />
 </p>
 
 <p align="center">
   I build, break, and fix distributed systems on AWS.<br>
-  B.Tech CS graduate | Chandrapur, India | Open to relocation
+  B.Tech CS graduate | Chandrapur, India
 </p>
 
 <p align="center">
